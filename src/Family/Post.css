@@ -1,0 +1,22 @@
+.post {
+  display: flow-root;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 380px;
+  margin: auto;
+  margin-bottom: .5rem; 
+  padding: 10px;
+}
+
+.post-body {
+  margin: auto;
+}
+
+input {
+  margin: .5rem;
+}
+
+button {
+  margin: .5rem;
+}

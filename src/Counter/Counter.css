@@ -1,0 +1,14 @@
+.counter {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    margin-bottom: .5rem;
+}
+
+.counter-body {
+    margin: auto;
+}
